@@ -1,0 +1,120 @@
+<!DOCTYPE html><html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>The Tax Lounge | Ghulam Murtaza Laar</title>
+<meta name="description" content="Professional FBR Tax Filing, NTN Registration, Sales Tax, SECP, IPO Trademark, PEC and PSEB Registration Services.">
+<style>
+*{margin:0;padding:0;box-sizing:border-box;scroll-behavior:smooth}
+body{font-family:Arial,sans-serif;color:#263445;background:#fff;line-height:1.6}
+header{background:#10263f;color:white;padding:17px 7%;display:flex;justify-content:space-between;align-items:center;flex-wrap:wrap}
+.logo{font-size:23px;font-weight:bold;color:#e5bb65}
+.logo span{display:block;font-size:10px;letter-spacing:3px;color:white}
+nav a{color:white;text-decoration:none;margin:0 10px;font-size:14px}
+nav a:hover{color:#e5bb65}
+.hero{background:linear-gradient(120deg,#10263f,#234c68);color:white;text-align:center;padding:100px 20px}
+.hero h1{font-family:Georgia,serif;font-size:48px;color:#f0cc7e;margin:15px 0}
+.hero h2{font-size:23px}
+.hero p{max-width:650px;margin:20px auto;color:#e1e8ed}
+.btn{display:inline-block;background:#e5bb65;color:#10263f;padding:13px 25px;text-decoration:none;border-radius:5px;font-weight:bold;margin:10px}
+.btn:hover{background:white}
+section{padding:75px 7%}
+.heading{text-align:center;margin-bottom:40px}
+.heading h2{font-family:Georgia,serif;color:#10263f;font-size:36px}
+.heading p{color:#687887;margin-top:10px}
+.services{background:#f7f7f5}
+.grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(230px,1fr));gap:22px}
+.card{background:white;padding:27px 22px;border-radius:10px;border:1px solid #e8e8e8;box-shadow:0 5px 18px #00000008;transition:.3s}
+.card:hover{transform:translateY(-6px);border-color:#d6ad58;box-shadow:0 10px 25px #10263f15}
+.icon{font-size:25px;color:#c49a45;margin-bottom:12px;font-weight:bold}
+.card h3{color:#10263f;font-size:19px;margin-bottom:10px}
+.card p{font-size:14px;color:#687887}
+.about{display:grid;grid-template-columns:1fr 1fr;gap:40px;align-items:center}
+.about-box{background:#10263f;color:white;padding:40px;border-radius:12px}
+.about-box h2{color:#e5bb65;font-family:Georgia,serif;font-size:32px;margin-bottom:15px}
+.about h2{font-family:Georgia,serif;color:#10263f;font-size:34px;margin-bottom:15px}
+.about p{color:#687887;margin-bottom:15px}
+.points{margin-top:20px}
+.points div{margin:10px 0;font-weight:bold;color:#30485c}
+.points div:before{content:"✓ ";color:#b88a35}
+.contact{background:#10263f;color:white;text-align:center}
+.contact .heading h2{color:white}
+.contact .heading p{color:#d5dfe7}
+.contact-box{max-width:650px;margin:auto;border:1px solid #64798b;padding:35px;border-radius:12px}
+.contact-box h3{font-size:25px;color:#e5bb65}
+.phone{display:block;color:#e5bb65;font-size:30px;font-weight:bold;margin:20px}
+footer{background:#091a2b;color:#d0d9e0;text-align:center;padding:25px 10px;font-size:13px}
+footer strong{color:#e5bb65}
+.wa{position:fixed;bottom:20px;right:18px;background:#20b96b;color:white;text-decoration:none;padding:13px 20px;border-radius:30px;font-weight:bold;box-shadow:0 4px 15px #0003;z-index:10}
+@media(max-width:700px){
+header{justify-content:center;text-align:center;gap:15px}
+nav{width:100%;display:flex;justify-content:center;flex-wrap:wrap;gap:10px}
+nav a{margin:0 4px}
+.hero{padding:75px 18px}
+.hero h1{font-size:37px}
+.hero h2{font-size:19px}
+.heading h2{font-size:30px}
+.about{grid-template-columns:1fr}
+}
+</style>
+</head>
+<body><header>
+<div class="logo">THE TAX LOUNGE<span>TAX • LEGAL • BUSINESS SERVICES</span></div>
+<nav>
+<a href="#home">Home</a>
+<a href="#services">Services</a>
+<a href="#about">About</a>
+<a href="#contact">Contact</a>
+</nav>
+</header><section class="hero" id="home">
+<p style="color:#e5bb65;letter-spacing:3px;font-weight:bold">PROFESSIONAL TAX & BUSINESS SOLUTIONS</p>
+<h1>THE TAX LOUNGE</h1>
+<h2>Ghulam Murtaza Laar</h2>
+<p>Advocate & Tax Consultant</p>
+<p>Your trusted partner for tax compliance, registrations and professional business documentation services.</p>
+<a class="btn" href="#services">Explore Our Services</a>
+<a class="btn" href="https://wa.me/923169954175">Contact Us</a>
+</section><section class="services" id="services">
+<div class="heading">
+<h2>Our Professional Services</h2>
+<p>Reliable solutions for individuals, professionals and businesses.</p>
+</div>
+<div class="grid"><div class="card"><div class="icon">FBR</div><h3>FBR Annual Return Filing</h3><p>Income tax return preparation and filing assistance.</p></div><div class="card"><div class="icon">ST</div><h3>Sales Tax Return Filing</h3><p>Sales tax return preparation and filing services.</p></div><div class="card"><div class="icon">NTN</div><h3>NTN Registration</h3><p>NTN registration and taxpayer profile assistance.</p></div><div class="card"><div class="icon">STR</div><h3>Sales Tax Registration</h3><p>Sales tax registration and documentation support.</p></div><div class="card"><div class="icon">ID</div><h3>Name Correction</h3><p>Assistance with name correction in relevant tax records.</p></div><div class="card"><div class="icon">BUS</div><h3>Business Activity Change</h3><p>Updating business activity and profile information.</p></div><div class="card"><div class="icon">SECP</div><h3>SECP Registration</h3><p>Company registration and incorporation assistance.</p></div><div class="card"><div class="icon">IPO</div><h3>IPO Trademark Registration</h3><p>Trademark registration and related documentation.</p></div><div class="card"><div class="icon">PEC</div><h3>PEC Registration</h3><p>PEC registration, renewal and related assistance.</p></div><div class="card"><div class="icon">PSEB</div><h3>PSEB Registration</h3><p>PSEB registration support for IT businesses.</p></div></div>
+</section><section id="about">
+<div class="about">
+<div class="about-box">
+<h2>THE TAX LOUNGE</h2>
+<p style="color:white">Professional Tax & Legal Services</p>
+<hr style="border:1px solid #64798b;margin:20px 0">
+<p style="color:#e5bb65;font-weight:bold">TRUSTED • PRECISE • RELIABLE</p>
+</div>
+<div>
+<h2>About Us</h2>
+<p>Ghulam Murtaza Laar, Advocate & Tax Consultant, provides professional assistance in taxation, business registration and corporate documentation.</p>
+<p>Our objective is to provide reliable guidance and practical solutions to help individuals and businesses manage their compliance requirements.</p>
+<div class="points">
+<div>Professional Tax Assistance</div>
+<div>Business Registration Support</div>
+<div>Corporate Documentation</div>
+<div>Client-Focused Services</div>
+</div>
+</div>
+</div>
+</section><section class="contact" id="contact">
+<div class="heading">
+<h2>Contact The Tax Lounge</h2>
+<p>Get in touch for professional tax and registration assistance.</p>
+</div>
+<div class="contact-box">
+<h3>Ghulam Murtaza Laar</h3>
+<p>Advocate & Tax Consultant</p>
+<a class="phone" href="tel:+923169954175">0316 9954175</a>
+<a class="btn" href="https://wa.me/923169954175">WhatsApp Now</a>
+</div>
+</section><footer>
+<p>© 2026 <strong>THE TAX LOUNGE</strong>. All Rights Reserved.</p>
+<p>Ghulam Murtaza Laar | Advocate & Tax Consultant</p>
+</footer><a class="wa" href="https://wa.me/923169954175">WhatsApp</a>
+
+</body>
+</html>
